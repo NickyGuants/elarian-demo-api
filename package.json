@@ -1,0 +1,16 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Integrate elarian into a node.js api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nikcy",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^14.2.0",
+    "elarian": "^0.2.23",
+    "express": "^4.17.2"
+  }
+}
